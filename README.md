@@ -77,9 +77,18 @@ Pursuing BE CSE at Kathir College of Engineering with a passion for building sca
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAIRAMSSSS&theme=radical&no-frame=true&row=1&column=6)](https://github.com/SAIRAMSSSS)
+<p align="center">
+  <a href="https://github.com/SAIRAMSSSS?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=SAIRAMSSSS&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw: Closed an issue/PR within 5 minutes" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark: Merged 2+ pull requests" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="80" alt="YOLO" title="YOLO: Merged a PR without review" />
+</p>
 
 </div>
 
@@ -115,7 +124,9 @@ Pursuing BE CSE at Kathir College of Engineering with a passion for building sca
 
 ---
 
-## 🎯 Current Focus
+## 🎯 92
+
+
 
 ```javascript
 const sairam = {
