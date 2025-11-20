@@ -22,6 +22,14 @@ Hi, I’m Sairam, an aspiring full-stack developer with experience in Python, Dj
 <p align="left"> <a href="https://www.github.com/SAIRAMSSSS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 ### Badges
 
+## 🏆 GitHub Achievements
+
+[![Quickdraw Badge](https://github.com/SAIRAMSSSS/SAIRAMSSSS/assets/209345578/quickdraw-badge.png)](https://github.com/SAIRAMSSSS?tab=achievements)
+[![Pull Shark Badge](https://github.com/SAIRAMSSSS/SAIRAMSSSS/assets/209345578/pull-shark-badge.png)](https://github.com/SAIRAMSSSS?tab=achievements)
+[![YOLO Badge](https://github.com/SAIRAMSSSS/SAIRAMSSSS/assets/209345578/yolo-badge.png)](https://github.com/SAIRAMSSSS?tab=achievements)
+
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SAIRAMSSSS"><img src="https://github-readme-stats.vercel.app/api?username=SAIRAMSSSS&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SAIRAMSSSS's GitHub stats" /></a>
