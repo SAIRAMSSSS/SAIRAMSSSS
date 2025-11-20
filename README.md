@@ -124,7 +124,8 @@ Pursuing BE CSE at Kathir College of Engineering with a passion for building sca
 
 ---
 
-## 🎯 92
+## 🎯 Current Focus
+
 
 
 
