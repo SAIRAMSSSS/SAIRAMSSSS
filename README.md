@@ -181,7 +181,6 @@ fun_fact: I solve problems with code, coffee, and occasionally Blender renders �
   <img src="https://ci3.googleusercontent.com/meips/ADKq_NbTDs1-ya2WBbo6WLm1CYyWXioG0zky4Dxig_obaa1YmjAKHo0rmI4sobauGwYambAZf_SjtRuuF3MQ7T38xMU=s0-d-e1-ft#https://gssoc.girlscript.org/badges/ai.png" width="110" alt="GSSoC 2026 - Contributor" title="GSSoC 2026: Contributor" />
 </p>
 
-> ⚠️ **Note:** Replace the `src` URLs above with the direct image links from your GSSoC 2026 badge award email or dashboard.
 
 ---
 
