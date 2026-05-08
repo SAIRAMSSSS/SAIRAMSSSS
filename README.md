@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Sairam!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Web%20Technologies%20Specialist&descAlignY=55&descSize=18" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Java+%26+Web+Technologies+Specialist+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Game+Dev+Explorer+%F0%9F%8E%AE;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;3D+Environment+Artist+%F0%9F%8C%8D;Open+Source+Contributor+%F0%9F%8C%9F;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -175,12 +174,14 @@ fun_fact: I solve problems with code, coffee, and occasionally Blender renders �
 
 ### 🌟 GSSoC 2026
 <p align="center">
-  <img src="https://gssoc.girlscript.tech/badges/AI_Agents_Track.png" width="110" alt="GSSoC 2026 - AI Agents Track" title="GSSoC 2026: AI Agents Track" />
+  <img src="https://ci3.googleusercontent.com/meips/ADKq_NbjOrHtJiVcN1ZriNsr374JYh3lxB6mWD25HB5F34qi2rEckla4PDrh7czdZPRvtEPOGNCBzloAVuwdvdy4xfaehiiCwSbXHu8=s0-d-e1-ft#https://gssoc.girlscript.org/badges/contributor.png" width="110" alt="GSSoC 2026 - AI Agents Track" title="GSSoC 2026: AI Agents Track" />
   &nbsp;&nbsp;
-  <img src="https://gssoc.girlscript.tech/badges/Open_Source_Track.png" width="110" alt="GSSoC 2026 - Open Source Track" title="GSSoC 2026: Open Source Track" />
+  <img src="https://gssoc.girlscript.org/badges/open.webp" width="110" alt="GSSoC 2026 - Open Source Track" title="GSSoC 2026: Open Source Track" />
   &nbsp;&nbsp;
-  <img src="https://gssoc.girlscript.tech/badges/Contributor.png" width="110" alt="GSSoC 2026 - Contributor" title="GSSoC 2026: Contributor" />
+  <img src="https://ci3.googleusercontent.com/meips/ADKq_NbTDs1-ya2WBbo6WLm1CYyWXioG0zky4Dxig_obaa1YmjAKHo0rmI4sobauGwYambAZf_SjtRuuF3MQ7T38xMU=s0-d-e1-ft#https://gssoc.girlscript.org/badges/ai.png" width="110" alt="GSSoC 2026 - Contributor" title="GSSoC 2026: Contributor" />
 </p>
+
+> ⚠️ **Note:** Replace the `src` URLs above with the direct image links from your GSSoC 2026 badge award email or dashboard.
 
 ---
 
