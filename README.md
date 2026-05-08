@@ -22,8 +22,7 @@
 
 ```yaml
 name: Sairam
-education: BE Computer Science @ Kathir College of Engineering
-location: Coimbatore, Tamil Nadu, India
+education: BE Computer Science Engineering
 focus: Full-Stack Development | Game Development
 currently_building: Zoho Cliqtrix 2025 HR Recruitment Bot
 open_to_collaborate: true
